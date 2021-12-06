@@ -32,3 +32,4 @@ You are going to write a List Comprehension to create a new list called `result`
 
 ```
 [2, 8, 34]
+
