@@ -69,7 +69,7 @@ and file2.txt contained:
 ```
 
 ```
-result = [2, 3]
+result = [2, 3] 
 ```
 
 **IMPORTANT**: The result should be a list that contains **Integers**, not **Strings**. Try to use **List Comprehension** instead of a **Loop**.
